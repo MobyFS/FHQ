@@ -1,10 +1,12 @@
-![Header](https://github.com/MobyFS/FHQ/blob/master/tenor.gif)
+![Header](https://github.com/MobyFS/FHQ/blob/master/tenor2.gif)
 
 
 # Hi, i'm a beginner specialist Security Officer 
 
-### Studying: MTUCI
-#
+From: Russia,Moscow
+
+Studying: MTUCI
+
 ## OS
 ![Windows](https://img.shields.io/badge/-Windows-7B7E80?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux_Kali/Ubuntu/Debian-7B7E80?style=for-the-badge&logo=linux&logoColor=FFFFFF)
@@ -22,3 +24,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-7B7E80?style=for-the-badge&logo=Telegram)](https://t.me/mobyfs)
 [![VK](https://img.shields.io/badge/-VK-7B7E80?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/moby_yo)
 [![Instagram](https://img.shields.io/badge/-Instagram-7B7E80?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/moby_fs/)
+
+![Header](https://github.com/MobyFS/FHQ/blob/master/kokpic.gif)
