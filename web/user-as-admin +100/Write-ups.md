@@ -1,6 +1,7 @@
 ## Задача: 
     get access as admin: (и тут такая картинка с печенькой,зачем она тут?)
-    here(https://freehackquest.com/files/quests/AA1C6B9A-5C3D-27BA-326C-A9C3EEF2EE5B_index.php)
+    [here](https://freehackquest.com/files/quests/AA1C6B9A-5C3D-27BA-326C-A9C3EEF2EE5B_index.php)
+
 ## Ответ:
     f909ef33f82d6a16a30b82b533050615
 
