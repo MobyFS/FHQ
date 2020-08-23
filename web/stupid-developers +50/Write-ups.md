@@ -1,10 +1,14 @@
 ## Задача: 
-    EN: Find the flag.
-    RU: Найдите флаг
-    File: http://2015.freehackquest.com/
+    Stupid Developers...
+    Stupid Developers...
+    Stupid Developers...
+    Stupid Developers...
+    Глупые разработчики...
+
+    [here index.php](https://freehackquest.com/files/quests/78B7FDBD-D781-8DF5-1670-4988282C623A_index.php)
 
 ## Ответ:
-    didnotforgotreadingcomments
+    very-hard-pass
 
 ## Автор: 
     [keva] sea-kg
