@@ -1,5 +1,6 @@
-<center>(https://github.com/MobyFS/FHQ/blob/master/tenor.gif)</center>
-
+<p align="center">
+![Header](https://github.com/MobyFS/FHQ/blob/master/tenor.gif)
+</p>
 
 # Hi, i'm a beginner specialist Security Officer 
 
