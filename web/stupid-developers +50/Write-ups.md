@@ -5,7 +5,7 @@
     Stupid Developers...
     Глупые разработчики...
 
-    [here index.php](https://freehackquest.com/files/quests/78B7FDBD-D781-8DF5-1670-4988282C623A_index.php)
+[here index.php](https://freehackquest.com/files/quests/78B7FDBD-D781-8DF5-1670-4988282C623A_index.php)
 
 ## Ответ:
     very-hard-pass
